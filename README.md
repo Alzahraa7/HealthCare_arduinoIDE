@@ -1,5 +1,5 @@
 # HealthCare_arduinoIDE
-This is my the hardware code of my Graduation project by Nodemcu and Arduino IDE
+This is the hardware and IOT code of my Graduation project by Nodemcu and Arduino IDE
 Used in this project 2 sensors: 
 1- ds18b20 for digital body tempreture 
 2- MAX30102 for SPO2 and Heart rate 
